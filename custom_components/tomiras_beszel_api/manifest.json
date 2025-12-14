@@ -3,7 +3,7 @@
   "name": "Tomiras Beszel API",
   "version": "0.0.1",
   "documentation": "https://github.com/tomiras/hassio-tomiras-beszel-api",
-  "issue_tracker": "https://github.com/tomiras/hassio-tomiras-beszel-api/issues",
+  "issue_tracker": "https://github.com/Ronjar/beszel-ha/issues",
   "requirements": [],
   "codeowners": [
     "@tomiras"
