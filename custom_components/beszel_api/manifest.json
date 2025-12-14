@@ -1,5 +1,5 @@
 {
-  "domain": "tomiras_beszel_api",
+  "domain": "beszel_api",
   "name": "Tomiras Beszel API",
   "version": "0.0.1",
   "documentation": "https://github.com/tomiras/hassio-tomiras-beszel-api",
@@ -10,6 +10,6 @@
   ],
   "iot_class": "local_polling",
   "loggers": [
-    "custom_components.tomiras_beszel_api"
+    "custom_components.beszel_api"
   ]
 }
