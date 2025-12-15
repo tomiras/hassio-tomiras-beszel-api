@@ -1,7 +1,7 @@
 {
   "domain": "beszel_api",
   "name": "Tomiras Beszel API",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "documentation": "https://github.com/tomiras/hassio-tomiras-beszel-api",
   "issue_tracker": "https://github.com/Ronjar/beszel-ha/issues",
   "requirements": ["pocketbase>=0.15.0"],
