@@ -1,15 +1,13 @@
 {
   "domain": "beszel_api",
   "name": "Tomiras Beszel API",
-  "version": "0.0.1",
+  "version": "0.4.0",
   "documentation": "https://github.com/tomiras/hassio-tomiras-beszel-api",
   "issue_tracker": "https://github.com/Ronjar/beszel-ha/issues",
-  "requirements": [],
-  "codeowners": [
-    "@tomiras"
-  ],
+  "requirements": ["pocketbase>=0.15.0"],
+  "config_flow": true,
+  "dependencies": [],
+  "codeowners": ["@tomiras"],
   "iot_class": "local_polling",
-  "loggers": [
-    "custom_components.beszel_api"
-  ]
+  "loggers": ["custom_components.beszel_api"]
 }
